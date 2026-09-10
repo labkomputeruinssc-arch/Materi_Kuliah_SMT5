@@ -37,8 +37,12 @@ Setelah menyelesaikan modul praktikum ini, mahasiswa diharapkan mampu:
 <img src="image-3.png" width=20% />
 
 5. LATIHAN PERTEMUAN-2
-    - Tambahkan text berupa
+    Tambahkan text berupa
     - Nama Lengkap
     - Tempat Tanggal Lahir
     - Cita-Cita
     - Rencana Hidup
+
+### Kumpulkan Link URL Github Reposistory MK ke sini ###
+
+# 🌐 https://forms.gle/6cdQ8nWtmTMPHp8o8 # 
