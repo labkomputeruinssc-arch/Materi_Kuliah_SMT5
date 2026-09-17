@@ -27,7 +27,7 @@ const PROFILE = {
   phone: '0821-7073-5116',
   location: 'Cirebon, West Java',
   bio: 'Pengembang aplikasi mobile berpengalaman 4 tahun yang berfokus di React Native dan Flutter',
-  avatar: 'https://lh3.googleusercontent.com/ogw/AF2bZyi8uF-5bgqEOwd31f__38Ysl9uXf4ufL26Rcv-1bAW4aJM=s64-c-mo',
+  avatar: 'https://lh5.googleusercontent.com/-mwBhriW4lBQ/AAAAAAAAAAI/AAAAAAAAAAA/Phl4QV1LsdY/s64-c-mo/photo.jpg',
   avatarOffline: 'assets/foto.png'
 };
 
